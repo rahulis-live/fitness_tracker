@@ -55,16 +55,13 @@ fitness_tracker/
   pip install pandas matplotlib
 
 
-🚀 How to Run
-Ensure all files (ui.py, weight.py, workout.py) are in the same directory.
+## 🚀 How to Run
 
-Run the GUI:
-python ui.py
-Enter your weight and workout status daily.
+1. Ensure all files (`ui.py`, `weight.py`, `workout.py`) are in the same directory.
 
-Click:
-"Show Weight Progress" to view a line graph of weight changes.
-"Show Workout Progress" to view a pie chart of workout status.
+2. Open a terminal in the project folder and run:
+   ```bash
+   python ui.py
 
 ## Author
 
