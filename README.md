@@ -51,17 +51,17 @@ fitness_tracker/
 
 ## 🚀 How to Run
 
-1.Clone the Repository
+1. Clone the Repository
 ```bash
 git clone https://github.com/rahulis-live/fitness_tracker.git
 ```
-2.Install Required Libraries
+2. Install Required Libraries
 
 Make sure Python 3.x is installed, then run:
 ```bash
 pip install pandas matplotlib
 ```
-3.Run the Application
+3. Run the Application
 ```bash
 python ui.py
 
