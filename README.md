@@ -73,7 +73,8 @@ pip install pandas matplotlib
 python ui.py
 
 ```
-## Author
+## 👤 Author
 
-Name: Rahul Chandran
-LinkedIn: Rahul Chandran
+**Name:** Rahul Chandran  
+**LinkedIn:** [Rahul Chandran](https://www.linkedin.com/in/rahul-chandran100/)
+
