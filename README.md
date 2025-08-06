@@ -60,8 +60,7 @@ fitness_tracker/
 
 1.Clone the Repository
 ```bash
-git clone https://github.com/rahulchandran100/fitness-tracker.git
-cd fitness-tracker
+git clone https://github.com/rahulis-live/fitness_tracker.git
 ```
 2.Install Required Libraries
 
