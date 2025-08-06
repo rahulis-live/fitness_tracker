@@ -47,12 +47,13 @@ fitness_tracker/
 ### Workout Completion Chart
 ![Workout Pie Chart](workout_chart.png)
 
-🖥️ Requirements
+## 🖥️ Requirements
 
-Python 3.x
-Required libraries:
+- **Python Version:** 3.x
+- **Required Libraries:**
+  
+  pip install pandas matplotlib
 
-pip install pandas matplotlib
 
 🚀 How to Run
 Ensure all files (ui.py, weight.py, workout.py) are in the same directory.
