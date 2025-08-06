@@ -15,17 +15,25 @@ A simple desktop application built with Python and Tkinter to help you track you
 
 ---
 
+## ⚙️ Tech Stack
+
+- **Language:** Python 3.x
+- **GUI:** Tkinter
+- **Data Handling:** pandas
+- **Data Visualization:** matplotlib
+- **Storage:** CSV files
+- 
+
 ## 📁 Project Structure
 
 
 fitness_tracker/
-│
-├── ui.py             # Main GUI window for tracking and visualization
-├── weight.py         # Shows weight progress graph
-├── workout.py        # Shows workout completion pie chart
-├── weight.csv        # Stores date and weight (auto-created if not present)
-├── workout.csv       # Stores date and workout status (Yes/No)
-└── README.md         # Project documentation
+ ui.py             # Main GUI window for tracking and visualization
+ weight.py         # Shows weight progress graph
+ workout.py        # Shows workout completion pie chart
+ weight.csv        # Stores date and weight (auto-created if not present)
+ workout.csv       # Stores date and workout status (Yes/No)
+ README.md         # Project documentation
 
 
 ## 🖼️ Screenshots
@@ -38,3 +46,26 @@ fitness_tracker/
 
 ### Workout Completion Chart
 ![Workout Pie Chart](workout_chart.png)
+
+🖥️ Requirements
+
+Python 3.x
+Required libraries:
+
+pip install pandas matplotlib
+
+🚀 How to Run
+Ensure all files (ui.py, weight.py, workout.py) are in the same directory.
+
+Run the GUI:
+python ui.py
+Enter your weight and workout status daily.
+
+Click:
+"Show Weight Progress" to view a line graph of weight changes.
+"Show Workout Progress" to view a pie chart of workout status.
+
+## Author
+
+Name: Rahul Chandran
+LinkedIn: Rahul Chandran
